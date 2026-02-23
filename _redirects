@@ -1,6 +1,0 @@
-/*    /index.html   200
-# Redirect old domain to new
-https://moshe-suissa-law.netlify.app/*  https://moshe-suissa-law.com/: splat  301! 
-
-# Redirect www to non-www
-https://www.moshe-suissa-law.com/*  https://moshe-suissa-law.com/: splat  301!
